@@ -52,12 +52,26 @@ Aparelho utilizado para testes: Moto G2
 
 ## Como rodar a aplicação 
 1.Ative a localização
+
+
 2.Abaixe o aplicativo
+
+
 3.Ative a perdição da câmera e da localização
+
+
 4.Entre no aplicativo
+
+
 5.Espere passar a tela de splash.
+
+
 6.Aperte o botão "Take a picture" para poder entrar na câmera para tirar a foto.
+
+
 7.Aperte em salva foto.
+
+
 8.Aperte no botão "Location" para adquirir a localização da imagem em tempo real.
 
 
