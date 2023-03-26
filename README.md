@@ -34,9 +34,9 @@
 Aplicativo que tira foto e informa a localização da foto tirada em tempo real.
 
 ## Funcionalidades ⚙️
-✔️ Tirar foto
+✔️ Tira foto pela camêra.
 
-✔️ Localização da foto
+✔️ Localização da foto em tempo real (latitude e longitude).
 
 ## Distribuição
 
