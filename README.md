@@ -47,7 +47,9 @@ Versão do Android: 8.0
 SDK: Pixel 2
 Aparelho utilizado para testes: Moto G2
 - Dependencias e libs que o usuário deve ter instalados na máquina para rodar a aplicação.
+
 1.Camera
+
 2.GPS
 
 ## Como rodar a aplicação 
