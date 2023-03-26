@@ -49,7 +49,7 @@ SDK: Pixel 2
 
 Aparelho utilizado para testes: Moto G2
 
-- Dependencias e libs que o usuário deve ter instalados na máquina para rodar a aplicação.
+Dependencias e libs que o usuário deve ter instalados na máquina para rodar a aplicação.
 
 1.uma camêra funcionando
 
