@@ -44,13 +44,16 @@ https://github.com/Daniel-afk321/Camera_landscape
 
 ## Pré-requisitos ⚠️ 
 Versão do Android: 8.0 
+
 SDK: Pixel 2
+
 Aparelho utilizado para testes: Moto G2
+
 - Dependencias e libs que o usuário deve ter instalados na máquina para rodar a aplicação.
 
-1.Camera
+1.uma camêra funcionando
 
-2.GPS
+2. sistema de GPS
 
 ## Como rodar a aplicação 
 1.Ative a localização
