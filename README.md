@@ -83,7 +83,7 @@ Utilização de imagens e descrição do qeu foi testado.
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Icone](https://www.stickpng.com/pt-br/img/diversos/icones-das-midias-sociais/icone-verde-instagram)
+![Icone](../https://www.stickpng.com/pt-br/img/diversos/icones-das-midias-sociais/icone-verde-instagram)
 ![Splash](https://br.pinterest.com/pin/565764771945002657/)
 XML
 ...
