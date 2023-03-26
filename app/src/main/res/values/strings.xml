@@ -1,0 +1,4 @@
+<resources>
+    //troca o nome do app
+    <string name="app_name">Camera_landscape</string>
+</resources>
