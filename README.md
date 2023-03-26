@@ -1,6 +1,6 @@
 # Camera_landscape
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ⚠️ Espera 
 
 ## Tópicos
 🔹 Descrição do projeto 
@@ -29,64 +29,60 @@
 
 🔹 Informações Extras
 
-
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+
+app que tira foto, e informa a localização da foto tirada em tempo real.
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
+✔️ Tirar foto
 
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
+✔️ Localização da foto
 
 ## Distribuição
-Link para teste da versão disponibilizada.
 
-## Pré-requisitos ⚠️    
-Versão do Android; 
-SDK; 
-Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+https://github.com/Daniel-afk321/Camera_landscape
+
+## Pré-requisitos ⚠️ 
+Versão do Android: 8.0 
+SDK: Pixel 2
+Aparelho utilizado para testes: Moto G2
+- Dependencias e libs que o usuário deve ter instalados na máquina para rodar a aplicação.
+1.Camera
+2.GPS
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+1.Ative a localização
+2.Abaixe o aplicativo
+3.Ative a perdição da câmera e da localização
+4.Entre no aplicativo
+5.Espere passar a tela de splash.
+6.Aperte o botão "Take a picture" para poder entrar na câmera para tirar a foto.
+7.Aperte em salva foto.
+8.Aperte no botão "Location" para adquirir a localização da imagem em tempo real.
+
 
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
 
 ## Banco de Dados 🗂️
-Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
+
 
 ## Linguagens, dependencias e libs utilizadas 📚
 ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
+![Icone](https://www.stickpng.com/pt-br/img/diversos/icones-das-midias-sociais/icone-verde-instagram)
+![Splash](https://br.pinterest.com/pin/565764771945002657/)
 XML
 ...
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ## Resolvendo Problemas 
-Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 ## Recursos de inseridos 🧰
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
-
-📝 Tarefa 1
-
-📝 Tarefa 2
-
-📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+
+🔹 Daniel Fonseca De Oliveira
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ Ano - Camera_landscape
