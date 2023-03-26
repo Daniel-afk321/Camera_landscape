@@ -31,7 +31,7 @@
 
 ## Descrição do projeto
 
-app que tira foto, e informa a localização da foto tirada em tempo real.
+Aplicativo que tira foto e informa a localização da foto tirada em tempo real.
 
 ## Funcionalidades ⚙️
 ✔️ Tirar foto
