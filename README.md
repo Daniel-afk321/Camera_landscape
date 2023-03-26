@@ -53,7 +53,7 @@ Dependencias e libs que o usuário deve ter instalados na máquina para rodar a 
 
 1.uma camêra funcionando
 
-2. sistema de GPS
+2.sistema de GPS
 
 ## Como rodar a aplicação 
 1.Ative a localização
