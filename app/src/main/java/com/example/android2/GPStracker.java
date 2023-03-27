@@ -14,23 +14,23 @@ import androidx.core.content.ContextCompat;
 
 public class GPStracker implements LocationListener {
    Context context;
-    //metodo para usar o context
+    //método para usar o context.
     public GPStracker(Context c){
         context = c;
     }
-    //esta pegando a localizacao
+    //está pegando a localização.
     public Location getLocation(){
-//esta verificando a permicao
+//está verificando a permissão.
         if(ContextCompat.checkSelfPermission(context, Manifest.permission.ACCESS_FINE_LOCATION) !=
                 PackageManager.PERMISSION_GRANTED){
-//esta verificando se foi permitido, caso nao foi ira mostra uma mensagem nao foi permitido
+//está verificando se foi permitido, caso não foi, ira mostra uma mensagem, não foi permitido.
             Toast.makeText(context, "Não foi permitir", Toast.LENGTH_SHORT).show();
             return null;
         }
         LocationManager lm = (LocationManager) context.getSystemService(Context.LOCATION_SERVICE);
         boolean isGPSEnabled = lm.isProviderEnabled(LocationManager.GPS_PROVIDER);
 
-        //tempo de chamada do gps
+        //tempo de chamada do gps.
         if(isGPSEnabled){
             lm.requestLocationUpdates(LocationManager.GPS_PROVIDER, 6000, 10, this);
             Location l = lm.getLastKnownLocation(LocationManager.GPS_PROVIDER);
@@ -38,19 +38,19 @@ public class GPStracker implements LocationListener {
         }
         else
         {
-//esta pedindo pro usuario habilitar o GPS
+//está pedindo pro usuário habilitar o GPS.
             Toast.makeText(context, "Por favor, habilitar o GPS!", Toast.LENGTH_LONG).show();
         }
-//esta retornando nulo
+//está retornando nulo.
         return null;
     }
-    //
+    //esse método é chamado quando o GPS é desativado.
     @Override
     public void onProviderDisabled(@NonNull String provider) {    }
-    //
+    //esse método é chamado quando o dispositivo muda de localização.
     @Override
     public void onLocationChanged(@NonNull Location location) {    }
-    //
+    //esse método serve para ver o status do provedor.
     @Override
     public void onStatusChanged(String provider, int status, Bundle extras) {    }
 }

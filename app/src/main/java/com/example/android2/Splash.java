@@ -9,7 +9,7 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 public class Splash extends AppCompatActivity {
-  //declaracao de variavel
+  //declaração de variável
   private final Timer timer = new Timer();
   TimerTask timerTask;
 
@@ -19,7 +19,7 @@ public class Splash extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        //esta Instanciamdo o objeto
+        //esta Instanciando o objeto pra mostra a tela
         timerTask = new TimerTask() {
             @Override
             public void run() {
@@ -31,11 +31,11 @@ public class Splash extends AppCompatActivity {
                 });
             }
         };
-        //esse codigo serve para dar o delay entre a primeira pra segunda tela do app
+        //esse código serve para dar o delay entre a primeira pra segunda tela do app
         timer.schedule(timerTask, 3000);
 
     }
-    //metodo para carregar a tela 2
+    //método para carregar a tela 2
     private void gotoMainActivity(){
         Intent intent = new Intent(getApplicationContext(), MainActivity.class);
         intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
