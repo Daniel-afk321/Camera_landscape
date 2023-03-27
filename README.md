@@ -1,6 +1,6 @@
 # Camera_landscape
-## Versão: 1.0 
-## Status do Projeto: ⚠️ Espera 
+## Versão: 1.2
+## Status do Projeto: ✔️ Concluído 
 
 ## Tópicos
 🔹 Descrição do projeto 
