@@ -101,7 +101,7 @@ Dependencias e libs que o usuário deve ter instalados na máquina para rodar a 
 
 ![tela5](https://user-images.githubusercontent.com/83432335/228980729-0c6c95a7-b39d-4aea-be2d-6c507f44ff7c.png)
 
-6-Tela que ira mostrar a localização da imagem em tempo real, quando o usuario aperta o Bota "Location".
+6-Tela que ira mostrar a localização da imagem em tempo real, quando o usuario aperta o botão "Location".
 
 ![tela6](https://user-images.githubusercontent.com/83432335/228981122-56879225-90b8-4ee2-a716-95be5cd66199.png)
 
