@@ -82,16 +82,27 @@ Dependencias e libs que o usuário deve ter instalados na máquina para rodar a 
 
 ## Testes realizados
 1-Tela onde ira mostra o icone do aplicativo.
+
 ![tela1](https://user-images.githubusercontent.com/83432335/228979401-a392c7b1-4142-4fa2-a2ac-688e56f6722a.png)
+
 2-Tela do  splash.
+
 ![tela2](https://user-images.githubusercontent.com/83432335/228979517-f5aca215-b8ab-4b82-85b8-f6d503a54a88.png)
+
 3-Tela do aplicativo onde o usuario podera tirar a foto e ver a localização.
+
 ![tela3](https://user-images.githubusercontent.com/83432335/228979628-b6466c24-8f25-4537-86a6-2ffbf0f49eee.png)
+
 4-Tela onde o usuario vai tirar a foto e salvala no aplicativo.
+
 ![tela4](https://user-images.githubusercontent.com/83432335/228980196-4f98b22c-1570-4b35-8450-c7441c3a2ff7.png)
+
 5-Tela de como o aplicativo ficara depois que salva a imagem.
+
 ![tela5](https://user-images.githubusercontent.com/83432335/228980729-0c6c95a7-b39d-4aea-be2d-6c507f44ff7c.png)
+
 6-Tela que ira mostrar a localização da imagem em tempo real, quando o usuario aperta o Bota "Location".
+
 ![tela6](https://user-images.githubusercontent.com/83432335/228981122-56879225-90b8-4ee2-a716-95be5cd66199.png)
 
 
